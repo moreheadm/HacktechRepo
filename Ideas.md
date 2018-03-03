@@ -1,0 +1,4 @@
+# Ideas
+
+- Chatbot
+- Smart mirror
